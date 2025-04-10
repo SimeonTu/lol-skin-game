@@ -2,6 +2,8 @@
 
 This is a web-based game built with Vue.js where players guess the League of Legends champion based on a zoomed-in skin image. It fetches real-time champion data using Riot Games' Data Dragon API.
 
+![League of Legends Splash Art Guessing Game](https://i.imgur.com/u37tm58.png)
+
 ## Features
 
 - Random champion skin selection
